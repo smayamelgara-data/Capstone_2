@@ -2,6 +2,7 @@
 
 This project analyzes sales and marketing data for EmporiUm, a fictional student bookstore chain. The goal of this project is to compare sales performance between the Florida and South Carolina sales territories within the South region using Python and data analysis tools.
 
+HEAD
 Tools Used:
 - Python
 - pandas
@@ -14,3 +15,4 @@ Sales Territories:
 
 Region:
 - South
+
