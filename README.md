@@ -1,5 +1,5 @@
 # Capstone 2 - Business Analysis with Python
-# Author: Smaya Melgara 
+### Author: Smaya Melgara 
 This project analyzes sales performance for EmporiUm, a fictional bookstore chain.
 
 The analysis compares Florida and South Carolina sales territories in the South region using Python, pandas, and Matplotlib.
